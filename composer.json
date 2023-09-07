@@ -1,0 +1,16 @@
+{
+    "type" : "pdf",
+    "description" : "Generacio entrades uf4 m7",
+    "require":{
+        "doctrine/orm" :"*",
+        "doctrine/cache" : "1.11.*",
+        "mpdf/mpdf": "^8.1",
+        "mpdf/qrcode": "^1.2",
+        "picqer/php-barcode-generator": "^2.2"
+    },
+    "autoload":{
+        "psr-4": {
+            "":"model/"
+        }
+    }
+}
