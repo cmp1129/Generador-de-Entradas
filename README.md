@@ -12,6 +12,7 @@
 - Trabajo Final de PHP en DAW
 - Uso de la librería Mpdf
 - Genera un PDF del Ticket de un concierto utilizando Mpdf
+- Genera un XML con información de los espectáculos en función de la fecha proporcionada a través de solicitudes GET
 
 
 ## Support Me 🤍
